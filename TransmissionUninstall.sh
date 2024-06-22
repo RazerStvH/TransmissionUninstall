@@ -36,4 +36,5 @@ sudo rm -rf \
 /usr/local/bin/transmission-remote \
 /usr/local/share/man/man1/transmission-remote.1 \
 /usr/local/bin/transmission-show \
-/usr/local/share/man/man1/transmission-show.1
+/usr/local/share/man/man1/transmission-show.1 \
+~/.config/transmission
