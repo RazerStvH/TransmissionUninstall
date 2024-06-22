@@ -1,0 +1,2 @@
+# TransmissionUninstall
+Uninstalling Script
